@@ -1,0 +1,33 @@
+Designator,Qty,Manufacturer,Part #,Description/Value,Package/Footprint,Mounting Type,Notes,Supplier URL,Price (1 set) [USD],Price (100 sets) [USD],Price (1000 sets) [USD]
+"C4, C8, C10, C12, C13, C14, C16, C17, C20, C23",10,Murata,GRM155R60J104KA01D,"Ceramic capacitor, 100 nF",402,SMD,,https://www.digikey.com/en/products/detail/murata-electronics/GRM155R60J104KA01D/490-6287-1-ND/3845484,0.33,14.6,81.7
+"C3, C5, C6, C7, C9",5,Murata,GRM155R60J103KA01D,"Ceramic capacitor, 10 nF",402,SMD,,https://www.digikey.com/en/products/detail/murata-electronics/GRM155R60J103KA01D/490-6286-1-ND/3845483,0.5,4.43,29.1
+C2,1,Murata,GRM1555C1H101JA01J,"Ceramic capacitor, 100 pF",402,SMD,,https://www.digikey.com/en/products/detail/murata-electronics/GRM1555C1H101JA01J/490-7754-1-ND/4358006,0.1,0.81,4.54
+C1,1,Murata,GRM1555C1H220JA01D,"Ceramic capacitor, 22 pF",402,SMD,,https://www.digikey.com/en/products/detail/murata-electronics/GRM1555C1H220JA01D/490-5868-1-ND/3175200,0.1,0.81,4.57
+"C21, C22",2,Murata,GRM1555C1H180JA01D,"Ceramic capacitor, 18 pF",402,SMD,,https://www.digikey.com/en/products/detail/murata-electronics/GRM1555C1H180JA01D/2854383,0.2,2.32,13
+"C11, C19, C24, C25",4,Murata,GRM188R60J105KA01D,"Multi-layer ceramic capacitor, 1 uF, 6.3 V, X5R",603,SMD,,https://www.digikey.com/en/products/detail/murata-electronics/GRM188R60J105KA01D/490-1550-1-ND/587755,0.4,11,61.84
+C18,1,Murata,GRM185R60J475ME15D,"Multi-layer ceramic capacitor, 4.7 uF, 6.3 V, X5R",603,SMD,,https://www.digikey.com/en/products/detail/murata-electronics/GRM185R60J475ME15D/490-3892-1-ND/965934,0.3,11.67,72.02
+C15,1,Murata,GRM188R60J106KE47D,"Multi-layer ceramic capacitor, 10 uF, 6.3 V, X5R",603,SMD,,https://www.digikey.com/en/products/detail/murata-electronics/GRM188R60J106KE47D/490-12538-1-ND/5797528,0.15,5.07,29.44
+L1,1,Delta Electronics,0402HS-390EKTS,"Fixed inductor, 39 nH, 200 mA, 550 MOhm",402,SMD,,https://www.digikey.com/en/products/detail/0402HS-390EKTS/2035-0402HS-390EKTSCT-ND/10231211,0.26,15.68,109.72
+L2,1,Murata,BLM15HB221SH1D,Ferrite bead,402,SMD,,https://www.digikey.com/en/products/detail/murata-electronics/BLM15HB221SH1D/6798444,0.1,4.36,25.08
+"R11, R12",2,Yageo,RC0402FR-0715RL,"Resistor, 15R",402,SMD,,https://www.digikey.com/en/products/detail/yageo/RC0402FR-0715RL/311-15LRCT-ND/2827914,0.2,1.32,5.98
+"R15, R16",2,Yageo,RC0402FR-071KL,"Resistor, 1K",402,SMD,,https://www.digikey.com/en/products/detail/yageo/RC0402FR-071KL/726513,0.2,1.32,5.98
+"R10, R13, R17",3,Yageo,RC0402FR-074K7L,"Resistor, 4K7",402,SMD,,https://www.digikey.com/en/products/detail/yageo/RC0402FR-074K7L/311-4-7KLRCT-ND/2827881,0.3,1.98,7.77
+"R7, R8",2,Yageo,RC0402FR-075K1L,"Resistor, 5K1",402,SMD,,https://www.digikey.com/en/products/detail/yageo/RC0402FR-075K1L/726624,0.2,1.32,5.98
+R18,1,Yageo,RC0402FR-076K8L,"Resistor, 6K8",402,SMD,,https://www.digikey.com/en/products/detail/yageo/RC0402FR-076K8L/311-6-80KLRCT-ND/729589,0.1,0.66,2.99
+"R14, R19",2,Yageo,RC0402FR-0710KL,"Resistor, 10K",402,SMD,,https://www.digikey.com/en/products/detail/yageo/RC0402FR-0710KL/726523,0.2,1.32,5.98
+"R1, R2, R3, R4, R5, R6, R9",7,Yageo,RC0402FR-07100KL,"Resistor, 100K",402,SMD,,https://www.digikey.com/en/products/detail/yageo/RC0402FR-07100KL/311-100KLRCT-ND/729473,0.7,4.62,14.98
+Q2,1,Jauch Quartz,"Q 0,032768-JTX310-12,5-10-T1-HMR-50K-LF","Ctystal, 32.768 kHz ±10 ppm, 12.5 pF, 50 kOhm",2-SMD,SMD,"Possible substitute: Epsom, X1A0001410004 FC-135R 32.768KHZ 9PF",https://www.digikey.com/en/products/detail/jauch-quartz/Q-0-032768-JTX310-12-5-10-T1-HMR-50K-LF/8108077,0.86,62.7,495
+D1,1,Rohm Semiconductor,SML-D12M1WT86,"LED, yellow-green, 572 nm, 2.2 V",603,SMD,,https://www.digikey.com/en/products/detail/rohm-semiconductor/SML-D12M1WT86/SML-D12M1WT86CT-ND/5843861,0.22,5.51,39.86
+D2,1,Rohm Semiconductor,SML-D12U1WT86,"LED, red, 620 nm, 2.2 V",603,SMD,,https://www.digikey.com/en/products/detail/rohm-semiconductor/SML-D12U1WT86/SML-D12U1WT86CT-ND/5843858,0.22,5.51,39.86
+TCXO1,1,Connor Winfield,D32G-016.368M,"Temperature compensated oscillator, 16.384 MHz",3.2x2.5,SMD,"Possible substitutes: EPSON, X1G005441030112 or TXC Corporation, 7Q-16.368MBG-T",https://www.digikey.com/en/products/detail/connor-winfield/D32G-016-368M/3641696,8,700,7000
+U2,1,Skyworks Solutions Inc.,SE4150L-R,RF receiver,24-QFN,SMD,,https://www.digikey.com/en/products/detail/skyworks-solutions-inc/SE4150L-R/863-1354-1-ND/2745473,0.86,86.4,864
+SAW1,1,Abracon LLC,AFS20A42-1575.42-T3,"SAW filter, 1.575 GHz, BW 42 MHz",4-SMD,SMD,,https://www.digikey.com/en/products/detail/abracon-llc/AFS20A42-1575-42-T3/535-12069-1-ND/4075659,1.05,71.37,543.74
+U1,1,Silicon Labs,EFM32HG310F64G-C-QFN32R,Microcontroller,32-QFN,SMD,,https://www.digikey.com/en/products/detail/silicon-labs/EFM32HG310F64G-C-QFN32R/336-6165-1-ND/10314104,5.91,435.04,3703.46
+U3,1,Nexperia,"PRTR5V0U2AX,235","TVS diode, 5.5 V",SOT143B,SMD,,https://www.digikey.com/en/products/detail/nexperia-usa-inc/PRTR5V0U2AX235/1727-5862-1-ND/2698064,0.66,42.47,257.87
+IC1,1,Winbond Electronics,W25N512GVEIG,"NAND flash, 512 Mbit",WSON-8,SMD,,https://www.digikey.com/en/products/detail/W25N512GVEIG/256-W25N512GVEIG-ND/12143334,2.9,228.68,2051.92
+J3,1,TE Connectivity AMP Connectors,1909763-1,"U.FL connector jack, 50 Ohm",,SMD,,https://www.digikey.com/en/products/detail/1909763-1/A118077CT-ND/4729711,0.51,36.55,595.9
+"Q1, Q3, Q4",3,Rohm Semiconductor,TT8M1TR,"Mosfet array N and P-channel, 20 V, 2.5 A, 1 W",8-SMD,SMD,,https://www.digikey.com/en/products/detail/rohm-semiconductor/TT8M1TR/5042837,1.56,86.58,487.08
+U4,1,ABLIC U.S.A. Inc.,S-1318D33-M5T1U4,"Linear voltage regulator IC, positive fixed, 1 output, 100 mA",SOT-23-5,SMD,,https://www.digikey.com/en/products/detail/ablic-inc/S-1318D33-M5T1U4/10313979,1.58,109.94,908.2
+J1,1,JAE Electronics,DX07S016JA1R1500,"USB-C receptacle connector, 24 Pins (16+8 dummy), right angle",,through-hole,,https://www.digikey.com/en/products/detail/jae-electronics/DX07S016JA1R1500/11585731,1.67,129.65,1080.44
+J2,1,JST Sales America Inc.,S2B-PH-SM4-TB,"Connector header, right angle, 2 position, 2.00 mm",,SMD,,https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB-LF-SN/926655,0.54,39.08,339.84
+,,,,,,,,,31.55,2124.54,18900.69
