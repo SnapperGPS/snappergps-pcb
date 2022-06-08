@@ -160,6 +160,8 @@ Now, you can continue with some basic testing:
 
 * Check the measured battery voltage in the table at the top of the *Configure* page. We recommend charging the battery to at least 4.1 V before a long-term deployment.
 
+* Connnect an active GNSS antenna of your choice via the U.FL connector to the SnapperGPS receiver.
+
 * Select some configuration parameters in the app and click/tap on *Configure*.
 
 * Disconnect the SnapperGPS receiver.
