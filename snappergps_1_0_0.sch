@@ -2815,24 +2815,24 @@ by exp-lbrs.ulp</description>
 <part name="GND24" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND25" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-A4L" device="">
-<attribute name="CNAME" value="RF front end"/>
-<attribute name="CREVISION" value="2.4"/>
+<attribute name="CNAME" value="RF front-end"/>
+<attribute name="CREVISION" value="1.0.0"/>
 <attribute name="DESIGNER" value="A. Rogers, J. Beuchert"/>
-<attribute name="REV" value="2.4"/>
+<attribute name="REV" value="1.0.0"/>
 </part>
 <part name="FRAME2" library="SparkFun-Aesthetics" deviceset="FRAME-A4L" device="">
 <attribute name="CNAME" value="Flash, power, LEDs, and LFXTAL"/>
-<attribute name="CREVISION" value="2.4"/>
+<attribute name="CREVISION" value="1.0.0"/>
 <attribute name="DESIGNER" value="A. Rogers, J. Beuchert"/>
 </part>
 <part name="FRAME3" library="SparkFun-Aesthetics" deviceset="FRAME-A4L" device="">
 <attribute name="CNAME" value="USB and power"/>
-<attribute name="CREVISION" value="2.4"/>
+<attribute name="CREVISION" value="1.0.0"/>
 <attribute name="DESIGNER" value="A. Rogers, J. Beuchert"/>
 </part>
 <part name="FRAME4" library="SparkFun-Aesthetics" deviceset="FRAME-A4L" device="">
 <attribute name="CNAME" value="MCU IO connections"/>
-<attribute name="CREVISION" value="2.4"/>
+<attribute name="CREVISION" value="1.0.0"/>
 <attribute name="DESIGNER" value="A. Rogers"/>
 </part>
 <part name="GND20" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
