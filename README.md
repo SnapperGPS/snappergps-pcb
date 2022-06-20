@@ -56,6 +56,8 @@ The two files `.mnb` and `.mnt` can be used for a pick-and-place machine and des
 
 The simplest way to replicate SnapperGPS is to upload the BOM, the Gerber files, the drill file, and the pick and place files to an online PCB manufacturing and assembly service. They will source the components, print the PCB, and assemble the board.
 
+We recommend a thickness between 0.8 and 1.6 mm for the two-layered board. The substrate can be FR-4 and hot air solder leveling (HASL) or electroless nickel immersion gold (ENIG) can be used for the finish.
+
 ## Hand Assembly
 
 An alternative to prefessional manufacturing is to just obtain the SnapperGPS PCB from a PCB manufacturer and to manually assembly the board.
@@ -252,7 +254,6 @@ All five circular pads have a spacing of 0.1 in and, hence, the same as common P
 
 All ten pads are labelled on the silkscreen of the PCB.
 
-
 ```
 Front           │           │ Back
                 │           │
@@ -269,5 +270,8 @@ Front           │           │ Back
 ────────────────┘           │
 ```
 
-
 ## Additional resources
+
+## Acknowledgements
+
+[Amanda Matthes](https://github.com/amanda-matthes) owns the copyright of the current SnapperGPS logo/icon that is on the bottom layer silkscreen of the PCB.
