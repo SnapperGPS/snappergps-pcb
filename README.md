@@ -47,12 +47,12 @@ This repository contains the hardware design files that can be used to replicate
 ## Workflow
 
 - Get/build your SnapperGPS receiver (see sections below).
-- [Configure](https://snapper-gps.herokuapp.com/configure) your SnapperGPS receiver in your browser for your deployment.
+- [Configure](https://snappergps.info/configure) your SnapperGPS receiver in your browser for your deployment.
 - Deploy your SnapperGPS receiver.
 - The SnapperGPS receiver captures GNSS snapshots according to your configuration.
 - Recover your SnapperGPS receiver.
-- [Upload](https://snapper-gps.herokuapp.com/upload) the data from your SnapperGPS receiver to our server.
-- [Download](https://snapper-gps.herokuapp.com/view) the track of your surveilled animal.
+- [Upload](https://snappergps.info/upload) the data from your SnapperGPS receiver to our server.
+- [Download](https://snappergps.info/view) the track of your surveilled animal.
 
 ## Repository Structure
 
@@ -152,7 +152,7 @@ If you replicated a SnapperGPS receiver yourself, you need to flash the SnapperG
 
 * Connect the SnapperGPS receiver via a USB-C cable to a host computer.
 
-* Download [the SnapperGPS firmware binary](https://snapper-gps.herokuapp.com/firmware/snapper.bin).
+* Download [the SnapperGPS firmware binary](https://snappergps.info/firmware/snapper.bin).
 
 * Install [the AudioMoth Flash App](https://www.openacousticdevices.info/applications) **or** [the Silicon Labs Simplicity Commander](https://community.silabs.com/s/article/simplicity-commander).
 
@@ -162,7 +162,7 @@ If you replicated a SnapperGPS receiver yourself, you need to flash the SnapperG
 
 Now, you can continue with some basic testing:
 
-* Open [the SnapperGPS web app](https://snapper-gps.herokuapp.com) in Microsoft Edge or Google Chrome or download it from [the Microsoft Store](https://apps.microsoft.com/store/detail/snappergps/9P9RPRS6LSMM) or [Google Play](https://play.google.com/store/apps/details?id=com.herokuapp.snapper_gps.twa).
+* Open [the SnapperGPS web app](https://snappergps.info) in Microsoft Edge or Google Chrome or download it from [the Microsoft Store](https://apps.microsoft.com/store/detail/snappergps/9P9RPRS6LSMM) or [Google Play](https://play.google.com/store/apps/details?id=com.herokuapp.snapper_gps.twa).
 
 * Go to the *Configure* page and click/tap on *Pair receiver*.
 
