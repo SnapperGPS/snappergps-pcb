@@ -2,7 +2,7 @@
 
 The SnapperGPS receiver is a small, low-cost, and low-power GNSS receiver for non-real-time wildlife tracking. It employs the snapshot GNSS technology, which offloads the computational expensive data processing to the cloud, and:
 
-* Measures just 32.0 mm x 27.3 mm,
+* Measures 32.0 mm x 27.3 mm,
 
 * Operates for more than a year on a tiny 40 mAh battery,
 
@@ -217,6 +217,8 @@ Testing the flash memory:
 * Ensure that all 10901 snapshots have been transferred and are provided as download.
 
 ## Hardware Overview
+
+Please have a look at our [preprint](https://arxiv.org/abs/2207.06310).
 
 ## Pinout
 
