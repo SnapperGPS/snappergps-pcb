@@ -14,7 +14,7 @@ The SnapperGPS receiver is a small, low-cost, and low-power GNSS receiver for no
 
 * Employs multiple satellite systems for high reliability (GPS, Galileo, and BeiDou),
 
-* Achieves a median real-world tracking accuracy of about 12 m,
+* Achieves a median real-world tracking accuracy of about 12 m (before smoothing),
 
 * Maintains a real-time clock to accurately timestamp the fixes,
 
