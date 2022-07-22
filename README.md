@@ -24,6 +24,16 @@ The SnapperGPS receiver is a small, low-cost, and low-power GNSS receiver for no
 
 This repository contains the hardware design files that can be used to replicate a SnapperGPS receiver.
 
+If you use SnapperGPS for your research, please consider citing our publications.
+
+For the cloud-processing software:
+
+> Jonas Beuchert and Alex Rogers. 2021. SnapperGPS: Algorithms for Energy-Efficient Low-Cost Location Estimation Using GNSS Signal Snapshots. In SenSys ’21: ACM Conference on Embedded Networked Sensor Systems, November, 2021, Coimbra, Portugal. ACM, New York, NY, USA, 13 pages. https://doi.org/10.1145/3485730.3485931.
+
+For the hardware:
+
+> Jonas Beuchert, Amanda Matthes, and Alex Rogers. 2022. SnapperGPS: Open Hardware for Energy-Efficient, Low-Cost Wildlife Location Tracking with Snapshot GNSS. arXiv preprint arXiv:2207.06310, 17 pages. https://doi.org/10.48550/arXiv.2207.06310.
+
 **Table of Contents**
 
 1. [Workflow](#workflow)
@@ -40,7 +50,7 @@ This repository contains the hardware design files that can be used to replicate
 
 7. [Pinout](#pinout)
 
-8. [Bill of Materials](#materials)
+8. [Bill of Materials](#bill-of-materials)
 
 9. [Additional Resources](#additional-resources)
 
