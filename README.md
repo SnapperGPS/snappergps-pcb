@@ -172,7 +172,7 @@ If you replicated a SnapperGPS receiver yourself, you need to flash the SnapperG
 
 Now, you can continue with some basic testing:
 
-* Open [the SnapperGPS web app](https://snappergps.info) in Microsoft Edge or Google Chrome or download it from [the Microsoft Store](https://apps.microsoft.com/store/detail/snappergps/9P9RPRS6LSMM) or [Google Play](https://play.google.com/store/apps/details?id=com.herokuapp.snapper_gps.twa).
+* Open [the SnapperGPS web app](https://snappergps.info) in Microsoft Edge or Google Chrome or download it from [the Microsoft Store](https://apps.microsoft.com/store/detail/snappergps/9P9RPRS6LSMM) or [Google Play](https://play.google.com/store/apps/details?id=com.herokuapp.snapper_gps.twa). (Alternatively, you can also host the SnapperGPS web app yourself, as described in [the _snappergps-app_ repository](https://github.com/SnapperGPS/snappergps-app)).
 
 * Go to the *Configure* page and click/tap on *Pair receiver*.
 
