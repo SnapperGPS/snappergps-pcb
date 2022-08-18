@@ -38,21 +38,23 @@ For the cloud-processing software:
 
 1. [Workflow](#workflow)
 
-2. [Repository Structure](#repository-structure)
+2. [Getting started](#getting-started)
 
-3. [Professional Manufacturing](#professional-manufacturing)
+3. [Repository Structure](#repository-structure)
 
-4. [Hand Assembly](#hand-assembly)
+4. [Professional Manufacturing](#professional-manufacturing)
 
-5. [Testing](#testing)
+5. [Hand Assembly](#hand-assembly)
 
-6. [Hardware Overview](#hardware-overview)
+6. [Testing](#testing)
 
-7. [Pinout](#pinout)
+7. [Hardware Overview](#hardware-overview)
 
-8. [Bill of Materials](#bill-of-materials)
+8. [Pinout](#pinout)
 
-9. [Additional Resources](#additional-resources)
+9. [Bill of Materials](#bill-of-materials)
+
+10. [Additional Resources](#additional-resources)
 
 ## Workflow
 
@@ -63,6 +65,12 @@ For the cloud-processing software:
 - Recover your SnapperGPS receiver.
 - [Upload](https://snappergps.info/upload) the data from your SnapperGPS receiver to our server.
 - [Download](https://snappergps.info/view) the track of your surveilled animal.
+
+## Getting started
+
+You already have a SnapperGPS receiver? See [here](GETTING-STARTED.md) how to get started.
+
+You need to build one first? Keep reading.
 
 ## Repository Structure
 
