@@ -20,7 +20,7 @@ To make your SnapperGPS receiver fully functional, you need the following items:
 
 | ![A SnapperGPS receiver, an Echo 27 antenna (right), and a 400 mAh lithium-polymer battery (left)](images/external-components.jpg) |
 |:--:|
-| *Figure 2: A SnapperGPS receiver, an Echo 27 antenna (right), and an 110 mAh lithium-ion polymer battery (left).* |
+| *Figure 2: A SnapperGPS receiver, an Echo 27 antenna (right), and a lithium-ion polymer battery (left).* |
 
 ## How to assemble your tag.
 
