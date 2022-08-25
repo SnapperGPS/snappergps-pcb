@@ -1,6 +1,6 @@
 # SnapperGPS: Getting started
 
-You just obtained your first SnapperGPS receiver or built one yourself? Here is how to get started with a quick test. If you face any problems on the way, check our troubleshooting section on [https://snappergps.info/](https://snappergps.info/) or ask a question [on GitHub](https://github.com/orgs/SnapperGPS/discussions).
+You just obtained your first SnapperGPS receiver or built one yourself? Here is how to get started with a quick test. If you face any problems on the way, check our troubleshooting section on [https://snappergps.info/](https://snappergps.info/), ask a question [on GitHub](https://github.com/orgs/SnapperGPS/discussions), or create [a new troubleshooting issue](https://github.com/SnapperGPS/snappergps-pcb/issues).
 
 ## What is in the box?
 
