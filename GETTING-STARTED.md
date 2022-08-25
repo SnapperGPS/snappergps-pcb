@@ -14,13 +14,17 @@ SnapperGPS receivers come as assembled PCBs, but without any further protection 
 
 To make your SnapperGPS receiver fully functional, you need the following items:
 -	An active GPS-L1 antenna with [a U.FL/IPEX connector](https://en.wikipedia.org/wiki/Hirose_U.FL), for example, [an Echo 27](https://www.siretta.com/products/antennas/echo-27/) or [an Abracon APAM1368YB13V3.0](https://abracon.com/parametric/antennas/APAM1368YB13V3.0). More information [here](https://github.com/SnapperGPS/snappergps-pcb/discussions/10).
--	A lithium-ion polymer (LiPo) battery with a JST-PH connector to power your SnapperGPS receiver during a deployment, for example [this one with 40 mAh](https://www.sparkfun.com/products/13852) or [this one with 110 mAh](https://www.sparkfun.com/products/13853). Make sure that the polarity is correct by checking the +/- markings on the battery and the board.
+-	A lithium-ion polymer (LiPo) battery with a JST-PH connector to power your SnapperGPS receiver during a deployment, for example [this one with 40 mAh](https://www.sparkfun.com/products/13852) or [this one with 110 mAh](https://www.sparkfun.com/products/13853). Make sure that the polarity is correct, i.e., the same as in Figure 2 and **not** as in Figure 3.
 -	Optionally, a charger for your LiPo battery. More information [here](https://github.com/SnapperGPS/snappergps-pcb/discussions/6).
 -	A USB-C cable to connect your SnapperGPS receiver to your laptop, desktop computer, phone, or tablet. This must be a power+data cable, not a power-only cable.
 
 | ![A SnapperGPS receiver, an Echo 27 antenna (right), and a 400 mAh lithium-polymer battery (left)](images/external-components.jpg) |
 |:--:|
-| *Figure 2: A SnapperGPS receiver, an Echo 27 antenna (right), and a lithium-ion polymer battery (left).* |
+| *Figure 2: A SnapperGPS receiver, an Echo 27 antenna (right), and a lithium-ion polymer battery with a JST-PH connector with the correct polarity (left).* |
+
+| ![JST-PH connectors with the incorrect polarity.)](images/wrong-jst-connector.jpg) |
+|:--:|
+| *Figure 3: JST-PH connectors with the incorrect polarity. The red and the black cable are swapped in contrast to the connector in Figure 1. Do not use a battery with this polarity with SnapperGPS.* |
 
 ## How to assemble your tag.
 
@@ -32,7 +36,7 @@ Finally, connect a USB-C cable to the USB-C port of your SnapperGPS receiver.
 
 | ![A SnapperGPS receiver with peripherals](images/assembled-external-components.jpg) |
 |:--:|
-| *Figure 3: A SnapperGPS receiver with peripherals.* |
+| *Figure 4: A SnapperGPS receiver with peripherals.* |
 
 ## Connect to your SnapperGPS receiver.
 
@@ -44,11 +48,11 @@ Click on “Configure” and then on “Pair Receiver”. If your SnapperGPS rec
 
 | ![Home page of https://snappergps.info/](images/home-page-configure-screenshot.png) |
 |:--:|
-| *Figure 4: Home page of https://snappergps.info/.* |
+| *Figure 5: Home page of https://snappergps.info/.* |
 
 | ![Configure page before pairing a SnapperGPS receiver](images/pair-receiver-screenshot.png) |
 |:--:|
-| *Figure 5: Configure page before pairing a SnapperGPS receiver.* |
+| *Figure 6: Configure page before pairing a SnapperGPS receiver.* |
 
 ## Check the battery voltage.
 
@@ -56,7 +60,7 @@ If you successfully connected your SnapperGPS receiver to the web app, then you 
 
 | ![Configure page showing battery voltage](images/check-battery-voltage-screenshot.png) |
 |:--:|
-| *Figure 6: Configure page showing battery voltage.* |
+| *Figure 7: Configure page showing battery voltage.* |
 
 ## Configure your SnapperGPS receiver.
 
@@ -68,7 +72,7 @@ Unplug your SnapperGPS receiver from USB. Immediately, the green LED should flas
 
 | ![Configure page after configuring a SnapperGPS receiver](images/configured-receiver-screenshot.png) |
 |:--:|
-| *Figure 7: Configure page after configuring a SnapperGPS receiver.* |
+| *Figure 8: Configure page after configuring a SnapperGPS receiver.* |
 
 ## Record some data.
 
@@ -78,7 +82,7 @@ When your SnapperGPS receiver has not started to record data, then both LEDs wil
 
 | ![SnapperGPS receivers recording data](images/recording.jfif) |
 |:--:|
-| *Figure 8: SnapperGPS receivers recording data.* |
+| *Figure 9: SnapperGPS receivers recording data.* |
 
 ## Upload your data.
 
@@ -89,11 +93,11 @@ Once your data has been processed, you should be able to see the final computed 
 
 | ![Home page of https://snappergps.info/](images/home-page-upload-screenshot.png) |
 |:--:|
-| *Figure 9: Home page of https://snappergps.info/.* |
+| *Figure 10: Home page of https://snappergps.info/.* |
 
 | ![A SnapperGPS receiver with its recorded track](images/app.jpg) |
 |:--:|
-| *Figure 10: A SnapperGPS receiver with its recorded track.* |
+| *Figure 11: A SnapperGPS receiver with its recorded track.* |
 
 ## Further resources.
 
