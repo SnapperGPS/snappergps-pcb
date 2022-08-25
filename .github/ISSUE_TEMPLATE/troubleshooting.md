@@ -26,10 +26,10 @@ A clear and concise description of what you expected to happen.
 Have you checked the troubleshooting section on https://snappergps.info/ ?
 * Yes/no.
 
-Does any of the problems listed there apply to your problem?
+Does any of the points listed there apply to your problem?
 * Yes/no.
 
-If any of the problems listed there applies to your problems, which of the suggestions have you considered?
+If any of the points listed there applies to your problems, which of the suggestions have you considered?
 * ...
 
 ### Photos and screenshots
