@@ -56,6 +56,8 @@ For the cloud-processing software:
 
 10. [Additional Resources](#additional-resources)
 
+11. [Acknowledgements](#acknowledgements)
+
 ## Workflow
 
 - Get/build your SnapperGPS receiver (see sections below).
@@ -313,3 +315,6 @@ We had to introduce this change because of the on-going global supply chain disr
 ## Acknowledgements
 
 [Amanda Matthes](https://github.com/amanda-matthes) owns the copyright of the current SnapperGPS logo/icon that is on the bottom layer silkscreen of the PCB.
+
+SnapperGPS was funded by an EPSRC IAA Technology Fund (D4D00010-BL14).
+Jonas Beuchert and Amanda Matthes are funded by the EPSRC Centre for Doctoral Training in Autonomous Intelligent Machines and Systems (DFT00350-DF03.01, DFT00350-DF03.05).
