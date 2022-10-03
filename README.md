@@ -314,7 +314,20 @@ We had to introduce this change because of the on-going global supply chain disr
 
 ## Acknowledgements
 
-[Amanda Matthes](https://github.com/amanda-matthes) owns the copyright of the current SnapperGPS logo/icon that is on the bottom layer silkscreen of the PCB.
+SnapperGPS is developed by
+[Jonas Beuchert](https://users.ox.ac.uk/~kell5462/),
+[Amanda Matthes](https://amanda-matthes.github.io/), and
+[Alex Rogers](https://www.cs.ox.ac.uk/people/alex.rogers/)
+in the Department of Computer Science
+of the University of Oxford.
 
-SnapperGPS was funded by an EPSRC IAA Technology Fund (D4D00010-BL14).
-Jonas Beuchert and Amanda Matthes are funded by the EPSRC Centre for Doctoral Training in Autonomous Intelligent Machines and Systems (DFT00350-DF03.01, DFT00350-DF03.05).
+Jonas Beuchert and Amanda Matthes are
+funded by the EPSRC Centre for Doctoral Training in
+Autonomous Intelligent Machines and Systems
+(DFT00350-DF03.01, DFT00350-DF03.05) and develop
+SnapperGPS as part of their doctoral studies.
+The implementation of SnapperGPS 
+was co-funded by an EPSRC IAA Technology Fund
+(D4D00010-BL14).
+
+[Amanda Matthes](https://github.com/amanda-matthes) owns the copyright of the current SnapperGPS logo/icon that is on the bottom layer silkscreen of the PCB.
