@@ -76,7 +76,7 @@ Unplug your SnapperGPS receiver from USB. Immediately, the green LED should flas
 
 ## Record some data.
 
-Move your SnapperGPS receivers outside. Place it in a way that the antenna points upwards towards the sky.
+Move your SnapperGPS receivers outside. Place it in a way that the antenna points upwards towards the sky. Ensure that the the board is not placed on a conductive surface and no conducting materials are directly placed on the board without isolation. (This includes antenna and battery.)
 
 When your SnapperGPS receiver has not started to record data, then both LEDs will jointly flash in a regular interval. Once it has started to record data, the green LED will flash whenever it captures data. After all data has been recorded, the red LED will flash several times. However, you do not need to wait until this happens.
 
