@@ -106,3 +106,14 @@ If you want to post-process your data, for example, smooth it to get better accu
 If you want to build a housing for your SnapperGPS receiver, then you can find some inspiration in [this repository](https://github.com/SnapperGPS/snappergps-housings). Potential housings include vacuum sealing, heat shrinking, milled plastic, or 3D printing. Make sure that the chosen method is suitable for your deployment environment.
 
 Your SnapperGPS receiver exposes three general-purpose input-output (GPIO) pins that you can use to connect an external sensor or a trigger. Check out [the PCB design](https://github.com/SnapperGPS/snappergps-pcb) and [the firmware](https://github.com/SnapperGPS/snappergps-firmware) to learn more about this possibility.
+
+##
+
+This documentation is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+
