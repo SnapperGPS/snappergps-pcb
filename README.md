@@ -332,6 +332,8 @@ was co-funded by an EPSRC IAA Technology Fund
 
 [Amanda Matthes](https://github.com/amanda-matthes) owns the copyright of the current SnapperGPS logo/icon that is on the bottom layer silkscreen of the PCB.
 
+##
+
 This documentation is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
