@@ -1,6 +1,6 @@
 # snappergps-pcb
 
-The SnapperGPS receiver is a small, low-cost, and low-power GNSS receiver for non-real-time wildlife tracking. It employs the snapshot GNSS technology, which offloads the computational expensive data processing to the cloud, and:
+The SnapperGPS receiver is a small, low-cost, and low-power GNSS receiver for non-real-time wildlife tracking. It employs the snapshot GNSS technology, which offloads the computationally expensive data processing to the cloud, and:
 
 * Measures 32.0 mm x 27.3 mm,
 
