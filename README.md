@@ -343,4 +343,5 @@ This documentation is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
 SnapperGPS V1.0.0 is certified as open source hardware by the Open Source Hardware Association with UID [UK000044](https://certification.oshwa.org/uk000044.html).
+
 ![OSHWA certification](https://raw.githubusercontent.com/oshwa/certification-mark-generator/gh-pages/premade/certification-template.svg)
