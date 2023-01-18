@@ -13,7 +13,7 @@ SnapperGPS receivers come as assembled PCBs, but without any further protection 
 ## What you need in addition.
 
 To make your SnapperGPS receiver fully functional, you need the following items:
--	An active GPS-L1 antenna with [a U.FL/IPEX connector](https://en.wikipedia.org/wiki/Hirose_U.FL), for example, [an Echo 27](https://www.siretta.com/products/antennas/echo-27/) or [an Abracon APAM1368YB13V3.0](https://abracon.com/parametric/antennas/APAM1368YB13V3.0). More information [here](https://github.com/SnapperGPS/snappergps-pcb/discussions/10).
+-	An active GPS-L1 antenna with [a U.FL/IPEX connector](https://en.wikipedia.org/wiki/Hirose_U.FL), for example, [an Echo 27](https://www.siretta.com/products/antennas/echo-27/), [an Abracon APAM1368YB13V3.0](https://abracon.com/parametric/antennas/APAM1368YB13V3.0), or [an Abracon APAM2764YK0175](https://abracon.com/parametric/antennas/APAM2764YK0175). More information [here](https://github.com/SnapperGPS/snappergps-pcb/discussions/10).
 -	A lithium-ion polymer (LiPo) battery with a JST-PH connector to power your SnapperGPS receiver during a deployment, for example [this one with 40 mAh](https://www.sparkfun.com/products/13852) or [this one with 110 mAh](https://www.sparkfun.com/products/13853). Make sure that the polarity is correct, i.e., the same as in Figure 2 and **not** as in Figure 3.
 -	Optionally, a charger for your LiPo battery. More information [here](https://github.com/SnapperGPS/snappergps-pcb/discussions/6).
 -	A USB-C cable to connect your SnapperGPS receiver to your laptop, desktop computer, phone, or tablet. This must be a power+data cable, not a power-only cable.
