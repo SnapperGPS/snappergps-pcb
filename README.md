@@ -238,7 +238,7 @@ Testing the flash memory:
 
 ## Hardware Overview
 
-Please have a look at our [preprint](https://arxiv.org/abs/2207.06310).
+Please have a look at our [paper](https://doi.org/10.5334/joh.48).
 
 ## Pinout
 
