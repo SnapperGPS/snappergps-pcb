@@ -90,7 +90,7 @@ The simplest way to replicate SnapperGPS is to upload the BOM, the Gerber files,
 
 We recommend a thickness between 0.8 and 1.6 mm for the two-layered board. The substrate can be FR-4 and hot air solder levelling (HASL) or electroless nickel immersion gold (ENIG) can be used for the finish.
 
-You can find an FAQ on prefessional manufacturing in [the discussions forum](https://github.com/orgs/SnapperGPS/discussions/22).
+You can find an FAQ on professional manufacturing in [the discussions forum](https://github.com/orgs/SnapperGPS/discussions/22).
 
 ## Hand Assembly
 
