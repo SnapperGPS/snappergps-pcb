@@ -30,7 +30,7 @@ If you use SnapperGPS hardware or software for research, please consider citing 
 
 For the hardware:
 
-> Jonas Beuchert, Amanda Matthes, and Alex Rogers. 2022. SnapperGPS: Open Hardware for Energy-Efficient, Low-Cost Wildlife Location Tracking with Snapshot GNSS. Journal of Open Hardware, 7(1), p.2. https://doi.org/10.5334/joh.48.
+> Jonas Beuchert, Amanda Matthes, and Alex Rogers. 2023. SnapperGPS: Open Hardware for Energy-Efficient, Low-Cost Wildlife Location Tracking with Snapshot GNSS. Journal of Open Hardware, 7(1): 2, pp. 1–13. [https://doi.org/10.5334/joh.48](https://openhardware.metajnl.com/articles/10.5334/joh.48/).
 
 For the cloud-processing software:
 
@@ -91,6 +91,8 @@ The two files `.mnb` and `.mnt` can be used for a pick-and-place machine and des
 The simplest way to replicate SnapperGPS is to upload the BOM, the Gerber files, the drill file, and the pick and place files to an online PCB manufacturing and assembly service. They will source the components, print the PCB, and assemble the board.
 
 We recommend a thickness between 0.8 and 1.6 mm for the two-layered board. The substrate can be FR-4 and hot air solder levelling (HASL) or electroless nickel immersion gold (ENIG) can be used for the finish.
+
+You can find an FAQ on professional manufacturing in [the discussions forum](https://github.com/orgs/SnapperGPS/discussions/22).
 
 ## Hand Assembly
 
