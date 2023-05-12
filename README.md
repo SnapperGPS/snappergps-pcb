@@ -1,3 +1,5 @@
+> *Are you looking for the open-source SnapperGPS hardware design files? You can find the files for the original version V1.0.0 in this repository and the files for an updated version V2.0.0 [in another repository](https://github.com/SnapperGPS/snappergps-pcb-2). For differences between both versions, please refer to the documentation over there. Jonas, May 2023*
+
 # snappergps-pcb
 
 The SnapperGPS receiver is a small, low-cost, and low-power GNSS receiver for non-real-time wildlife tracking. It employs the snapshot GNSS technology, which offloads the computationally expensive data processing to the cloud, and:
