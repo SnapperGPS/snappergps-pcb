@@ -178,7 +178,7 @@ If you replicated a SnapperGPS receiver yourself, you need to flash the SnapperG
 
 * Download [the SnapperGPS firmware binary](https://github.com/SnapperGPS/snappergps-firmware/releases).
 
-* Install [the AudioMoth Flash App](https://www.openacousticdevices.info/applications) **or** [the Silicon Labs Simplicity Commander](https://community.silabs.com/s/article/simplicity-commander).
+* Install [the AudioMoth Flash App](https://github.com/OpenAcousticDevices/AudioMoth-Flash-App/releases) (use v1.4.0; v1.6.0 does not work) **or** [the Silicon Labs Simplicity Commander](https://community.silabs.com/s/article/simplicity-commander).
 
 * Use one of the two tools two flash the firmware binary to the SnapperGPS receiver.
 
